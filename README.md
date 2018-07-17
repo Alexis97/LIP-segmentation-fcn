@@ -6,15 +6,11 @@
 <center>
 	<img src="https://github.com/Alexis97/LIP-segmentation-fcn/blob/master/demos/image/image_58000_2.png" height = 200>
 	Image resize to 384x384
-</center>
 
-<center>
-	<img src="https://github.com/Alexis97/LIP-segmentation-fcn/blob/master/demos/image/label_58000_2.png" height = 200>
+	<img src="https://github.com/Alexis97/LIP-segmentation-fcn/blob/master/demos/label/label_58000_2.png" height = 200>
 	Label resize to 384x384
-</center>
 
-<center>
-	<img src="https://github.com/Alexis97/LIP-segmentation-fcn/blob/master/demos/image/label_58000_2.png" height = 200>
+	<img src="https://github.com/Alexis97/LIP-segmentation-fcn/blob/master/demos/predict/predict_58000_2.png" height = 200>
 	Predict result of 384x384 after 58000 steps
 </center>
 
